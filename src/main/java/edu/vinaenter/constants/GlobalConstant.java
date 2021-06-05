@@ -2,7 +2,7 @@ package edu.vinaenter.constants;
 
 public class GlobalConstant {
 	
-	public static final String DIR_UPLOAD = "files";
+	public static final String DIR_UPLOAD = "uploads";
 	
 	public static final String EMPTY = "";
 	
